@@ -1,5 +1,5 @@
 import type {Config} from 'tailwindcss';
-
+#tailwindnewedit
 export default {
   darkMode: ['class'],
   content: [
